@@ -1,12 +1,12 @@
 {
-    "ipad":[{"id":"A001","price":"10500","color":"太空灰色","storage":"64GB","network":"Wi-Fi","picture":"ipad_gray.png"},
-        {"id":"A002","price":"10500","color":"銀色","storage":"64GB","network":"Wi-Fi","picture":"ipad_silver.png"},
-        {"id":"A003","price":"14500","color":"太空灰色","storage":"64GB","network":"Cellular","picture":"ipad_gray.png"},
-        {"id":"A004","price":"14500","color":"銀色","storage":"64GB","network":"Cellular","picture":"ipad_silver.png"},
-        {"id":"A005","price":"15000","color":"太空灰色","storage":"256GB","network":"Wi-Fi","picture":"ipad_gray.png"},
-        {"id":"A006","price":"15000","color":"銀色","storage":"256GB","network":"Wi-Fi","picture":"ipad_silver.png"},
-        {"id":"A007","price":"19000","color":"太空灰色","storage":"256GB","network":"Cellular","picture":"ipad_gray.png"},
-        {"id":"A008","price":"19000","color":"銀色","storage":"256GB","network":"Cellular","picture":"ipad_silver.png"}
+    "ipad":[{"id":"A001","price":"10500","color":"太空灰色","storage":"64GB","network":"Wi-Fi","picture":"gray.png","applepic":"ipad_gray.png"},
+  {"id":"A002","price":"10500","color":"銀色","storage":"64GB","network":"Wi-Fi","picture":"silver.png","applepic":"ipad_silver.png"},
+  {"id":"A003","price":"15000","color":"太空灰色","storage":"256GB","network":"Wi-Fi","picture":"gray.png","applepic":"ipad_gray.png"},
+  {"id":"A004","price":"14500","color":"太空灰色","storage":"64GB","network":"Cellular","picture":"gray.png","applepic":"ipad_gray.png"},
+  {"id":"A005","price":"14500","color":"銀色","storage":"64GB","network":"Cellular","picture":"silver.png","applepic":"ipad_silver.png"},
+  {"id":"A006","price":"15000","color":"銀色","storage":"256GB","network":"Wi-Fi","picture":"silver.png","applepic":"ipad_silver.png"},
+  {"id":"A007","price":"19000","color":"太空灰色","storage":"256GB","network":"Cellular","picture":"gray.png","applepic":"ipad_gray.png"},
+  {"id":"A008","price":"19000","color":"銀色","storage":"256GB","network":"Cellular","picture":"silver.png","applepic":"ipad_silver.png"}
     ],
     "ipadAir":[
         { "id":"A001", "color": "太空灰色",  "price": 17900, "storage":"64GB", "network": "Wi-Fi", "picture":"gray.png" ,"applepic":"ipad-air-select-cell-spacegray.png"},
